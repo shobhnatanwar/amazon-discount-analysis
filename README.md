@@ -1,20 +1,28 @@
 # AMAZON DISCOUNT STARTEGY ANALYSIS
 
 ## OBJECTIVE
-Optimize discount strategy to maximize revenue while maintaining customer satisfaction.
+To optimize discount strategies by identifying the ideal balance between revenue maximization and customer satisfaction using data-driven insights.
 
 ## TOOLS USED
-- Python (Pandas, Matplotlib)
-- Power BI
-- Excel
+~ Python (Pandas, Matplotlib) – Data cleaning, feature engineering, and exploratory analysis
+~ Power BI – Interactive dashboard and visualization
+~ Excel – Data validation and preprocessing
 
 ## KEY INSIGHT
-Optimal discount range is 20–30%, beyond which revenue efficiency declines.
+Identified an optimal 20–30% discount range that maximizes revenue efficiency.
+Discounts beyond 50% lead to diminishing returns, increasing engagement but not contributing proportionally to revenue.
 
 ## FILES
-- Dataset
-- Python analysis
-- Power BI dashboard
+~ Dataset – 1,000+ Amazon product records
+~ Python Analysis – Data preprocessing, feature engineering, and EDA
+~ Power BI Dashboard – Interactive visualization with dynamic filtering
 
 ## OUTCOME
-Provided actionable pricing strategy recommendations based on data analysis.
+Delivered actionable pricing strategy recommendations, enabling businesses to:
+
+~ Maximize revenue through optimized discounting
+~ Maintain high customer satisfaction (avg rating ~4.0+)
+~ Avoid inefficient high-discount strategies
+
+## BUSINESS IMPACT
+This project demonstrates how analytical insights can support strategic pricing decisions, helping e-commerce platforms improve profitability while sustaining customer trust.
