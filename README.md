@@ -1,4 +1,4 @@
-# AMAZON DISCOUNT STARTEGY ANALYSIS
+# AMAZON DISCOUNT STRATEGY ANALYSIS
 
 ## OBJECTIVE
 To design a data-driven discount strategy that maximizes revenue while maintaining strong customer satisfaction, by analyzing pricing patterns, customer engagement, and product performance across 1,000+ Amazon listings.
